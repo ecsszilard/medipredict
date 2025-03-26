@@ -1,0 +1,16 @@
+# Maven build fájlok
+target/
+*.jar
+*.war
+*.iml
+
+# IDE-specifikus fájlok
+.idea/
+*.log
+
+# OS-specifikus fájlok
+.DS_Store
+Thumbs.db
+
+# Docker fájlok
+*.pid
